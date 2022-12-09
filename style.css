@@ -1,0 +1,13 @@
+h2 {
+	font-size: 22px;
+	color: black;
+	} 
+			
+body {
+	background-color: FFFFF0;
+	}
+	
+ul.cirle {list-style-type: cirle;}
+ul.square {list-style-type: square;}
+ul.disc {list-style-type: disc;}
+ul.none {list-style-type: none;}
